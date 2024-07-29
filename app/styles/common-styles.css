@@ -1,0 +1,57 @@
+  .main-container {
+    width: 100%;
+    display: flex;
+  }
+  .left-main-container {
+    margin-left: 2rem;
+  }
+  
+  .table-stack {
+    margin-top: 50px;
+  }
+  
+  .table-container {
+    width: 100%;
+  }
+
+
+  /* Page title Css Start*/
+  .page-title-container{
+    font-size: 24px;
+    font-weight: 600;
+    line-height: 33px;
+}
+/* Page title Css end */
+
+
+
+/*Case Report Main Container Start*/
+.case-report-row-container{
+  box-shadow: rgba(0, 0, 0, 0.1) 0px 0px 80px !important;
+  border-radius: 6px;
+  font-family: "Noto Sans";
+}
+/*Case Report Main Container End*/
+  .lottie-item-text-color{
+    color : rgb(130, 130, 130);
+    font-family: Noto Sans;
+    font-size: 13px;
+  }
+  @media (max-width: 1560px) {
+    .left-main-container {
+      width: 100%;
+    }
+    .right-main-container {
+      width: 100%;
+      margin-top: 50px
+    }
+  }
+
+  /*Slider Section Border box*/
+
+  .slider-section-border-box {
+    height: 100%;
+    padding: 10px 60px 10px 42px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    border-radius: 15px;
+  }

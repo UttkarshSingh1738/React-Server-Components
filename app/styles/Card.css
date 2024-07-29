@@ -1,0 +1,49 @@
+.home-card-block {
+  margin: 30px;
+  color: #ffffff;
+  font-family: sans-serif;
+  font-size: 12px;
+  border-radius: 12px;
+  padding: 20px;
+  box-sizing: border-box;
+  word-wrap: break-word;
+  box-shadow: 0px 4px 50px 6px #1f4cbe1a;
+  transition: 0.3s;
+  cursor: pointer;
+  height: 12rem;
+  width: 18rem;
+}
+
+.home-card-block:hover {
+  box-shadow: 0px 4px 50px 6px #0808081a;
+  transform: scale(1.1);
+}
+
+.home-card-icon {
+  display: block;
+  width: 60px;
+  height: 60px;
+  padding: 15px;
+}
+
+.card-heading {
+  font-family: Noto Sans;
+  font-size: 16px;
+  font-weight: 600;
+  line-height: 22px;
+  text-align: center;
+  color: #212121;
+}
+
+.card-details {
+  font-family: Noto Sans;
+  font-size: 14px;
+  font-weight: 400;
+  line-height: 19px;
+  letter-spacing: 0em;
+  text-align: center;
+  color: #828282;
+  top: 60px;
+  left: 20px;
+  word-wrap: break-word;
+}

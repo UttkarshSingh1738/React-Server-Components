@@ -1,0 +1,14 @@
+.homeHeader {
+  display: block;
+  font-family: Noto Sans;
+  font-size: 18px;
+  margin: auto;
+  font-weight: 500;
+  line-height: 19px;
+  letter-spacing: 0em;
+  text-align: left;
+  width: 292px;
+  height: 19px;
+  top: 73px;
+  left: 345px;
+}

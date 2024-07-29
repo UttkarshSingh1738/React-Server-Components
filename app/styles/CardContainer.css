@@ -1,0 +1,6 @@
+/* css for outer container that encloses card */
+.card-grid-container {
+  display: flex;
+  flex-wrap: wrap;
+  margin: 40px;
+}
